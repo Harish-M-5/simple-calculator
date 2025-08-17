@@ -1,4 +1,4 @@
-🔗Full-stack-project-on-calculator-
+🔗Simple-Calculator
 
 🔗Overview:
 
